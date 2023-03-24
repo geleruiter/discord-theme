@@ -1,5 +1,5 @@
 /**
- * @name anime background discord
+ * @name anime background 
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -56,8 +56,8 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #436B39;
-  --channel-color: rgb(255,255,255,0);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-color: rgb(136,218,124,0.4);
+  --muted-color: rgb(73,117,66,0.48);
   --online-color: #3FB17D;
   --idle-color: #faa61a;
   --dnd-color: #982929;
